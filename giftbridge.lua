@@ -4,7 +4,6 @@ local giftSock
 local isConnected = false
 
 local itemsAddress = {
-  -- fill this with your itemID→RAM address map, e.g.
   [5] = 0x020243A2,  -- Poké Ball count
   [7] = 0x020243A4,  -- Potion count
   -- …
